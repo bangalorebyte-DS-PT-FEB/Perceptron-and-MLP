@@ -9,4 +9,6 @@
 
 **Exercise**
 
-Try the MLPClassifier on the XOR dataset (Its just five rows of data, can be found in the MLP chapter of deeplearning book I have linked above. Also try the MLPClassifer on the Telecom Dataset for handson practice for parameter turning. Remember: You must scale the X_Test AND X_Train data before fitting.)
+- Try the Pecptron and MLPClassifier on the XOR dataset (Its just five rows of data, can be found in the MLP chapter of deeplearning book I have linked above. 
+
+- Also try the MLPClassifer on the Telecom Dataset for handson practice for parameter turning. Remember: You must scale the X_Test AND X_Train data before fitting.)
